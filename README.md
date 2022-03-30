@@ -88,3 +88,4 @@ https://codepen.io/sweaver2112/full/NWKrXmG
 https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/
 https://colors.madscience.design/
 https://www.schemecolor.com/
+https://blog.datawrapper.de/colors-for-data-vis-style-guides/
