@@ -89,3 +89,4 @@ https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/
 https://colors.madscience.design/
 https://www.schemecolor.com/
 https://blog.datawrapper.de/colors-for-data-vis-style-guides/
+https://branition.com/colors
