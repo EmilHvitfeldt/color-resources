@@ -4,6 +4,8 @@ This is a curated list of resources related to the use of colors.
 
 # Brain dump
 
+https://developer.chrome.com/articles/high-definition-css-color-guide/
+
 https://www.colorbox.io/
 
 https://github.com/rafi/awesome-vim-colorschemes
